@@ -11,5 +11,3 @@ Reference: https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classific
 1. "Part1_EDA_FE.ipynb"-- this file contains all Exploratory Data Analysis and Feature Engineering
 2. "part2_Applying_ML_algos.ipynb"--In this file some Machine Learing algorithms are appiled on preprocessed data 
 3. "part_3_DL_algos.ipynb"-- In this file both Bidirectional LSTM/GRU are applied. 
-4. "GRU_128_model.h5"-- This is saved model i.e trained with two 128 units bidirectional GRUs
-5. "LSTM_128_model.h5"--This is saved model i.e trained with two 128 units bidirectional LSTMs 
